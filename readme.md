@@ -1,2 +1,3 @@
-This project is for CUHK students to search some food 
-and for my first Andriod APP 
+This project is for CUHK students to search some food
+
+ for my first Andriod APP 
